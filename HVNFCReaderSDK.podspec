@@ -23,8 +23,8 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = 'HVNFCReaderSDK.xcframework'
     s.ios.resource = 'HVNFCResources.bundle'
     s.static_framework = true
-    s.dependency "OpenSSL-Universal", "~> 1.1.180"'
-    s.xcconfig          = { 'OTHER_LDFLAGS' => '-weak_framework CryptoKit -weak_framework CoreNFC -weak_framework CryptoTokenKit' }
+    s.dependency "OpenSSL-Universal", '1.1.180'
+   
 
     s.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
