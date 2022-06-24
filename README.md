@@ -47,7 +47,7 @@ import HVNFCReaderSDK
 //  Create HVNFConfig instance
  let hvNFCConfig = HVNFConfig()
  hvNFCConfig.setQRData(qrData: <QR-DATA>), // Data that is returned from QR code scanner
-
+```
 
 3. Create `completionHandler` instance
 
