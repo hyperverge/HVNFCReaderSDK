@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
                         :git => "https://github.com/hyperverge/HVNFCReaderSDK.git",
                         :tag => "#{s.version}"
                      }
-    s.vendored_frameworks = 'HVNFCReaderSDK.framework'
+    s.vendored_frameworks = 'HVNFCReaderSDK.xcframework'
     s.ios.resource = 'HVNFCResources.bundle'
     s.static_framework = true
     s.dependency "OpenSSL-Universal", "~> 1.1.180"
