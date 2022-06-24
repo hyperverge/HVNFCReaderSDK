@@ -4,6 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/OpenSSL.framework/Info.plist</key>
+		<data>
+		oxPhiHT9sPF96GfHzxIJEjYzTt8=
+		</data>
+		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
+		<data>
+		By0PuW6zLGfrE9/EheXIpeAlekA=
+		</data>
+		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
+		<data>
+		i0zwn447CLlTOfdsYpbjqFPP238=
+		</data>
 		<key>HVNFCResources.bundle/Assets.car</key>
 		<data>
 		bvUDz3Ye85UTaDWFElTB5krx1+s=
@@ -58,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hWOuxUQxswDZqwQARIwp3RyHqPY=
+		YpeyCK3ycTVldqnAnvNVY84mB8w=
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -91,6 +103,27 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/OpenSSL.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mKN/ChDYwMo0U6hVcKv++JCTE8LqSN+d0fiyb66wnAU=
+			</data>
+		</dict>
+		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oaN+ip1H1F0FdWiISdL1Rzri3DADRp0LFbpO+FDTgnk=
+			</data>
+		</dict>
+		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SE1Htk2zm3bSMt05S8q3Dam8CMqhQfAIz+kI7zuo0Ac=
+			</data>
+		</dict>
 		<key>HVNFCResources.bundle/Assets.car</key>
 		<dict>
 			<key>hash2</key>
