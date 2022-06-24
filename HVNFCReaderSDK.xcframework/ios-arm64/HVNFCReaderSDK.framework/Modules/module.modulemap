@@ -1,0 +1,11 @@
+framework module HVNFCReaderSDK {
+  umbrella header "HVNFCReaderSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module HVNFCReaderSDK.Swift {
+    header "HVNFCReaderSDK-Swift.h"
+    requires objc
+}
