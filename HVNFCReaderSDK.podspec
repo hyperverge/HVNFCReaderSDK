@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'HVNFCReaderSDK'
-    s.version      = '0.0.4'
+    s.version      = '1.0.0'
     s.summary      = "HyperVerge's iOS Framework for scanning NFC enabled smart chip IDs"
     s.description  = <<-DESC
                     HVNFCReader SDK is used to scan and get the data from smart ID cards using NFC technology.
@@ -26,8 +26,5 @@ Pod::Spec.new do |s|
     s.dependency "OpenSSL-Universal", '1.1.180'
    
 
-    s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
-    s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+ 
 end

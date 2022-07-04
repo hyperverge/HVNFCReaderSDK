@@ -4,21 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<data>
-		oxPhiHT9sPF96GfHzxIJEjYzTt8=
-		</data>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<data>
-		By0PuW6zLGfrE9/EheXIpeAlekA=
-		</data>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<data>
-		i0zwn447CLlTOfdsYpbjqFPP238=
-		</data>
 		<key>HVNFCResources.bundle/Assets.car</key>
 		<data>
-		bvUDz3Ye85UTaDWFElTB5krx1+s=
+		T9UBBMkkSK9Ag2Jcj0jxpUN/BYY=
 		</data>
 		<key>HVNFCResources.bundle/HVNFCPreview.storyboardc/HVNFCViewController.nib</key>
 		<data>
@@ -30,7 +18,7 @@
 		</data>
 		<key>HVNFCResources.bundle/HVNFCPreview.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		TqX6XF9w7cwB1I42JE+1O/Drmxo=
+		4+HcV7G6cGgYnIM2MPZt9EG2YqY=
 		</data>
 		<key>HVNFCResources.bundle/Info.plist</key>
 		<data>
@@ -50,7 +38,7 @@
 		</data>
 		<key>HVNFCResources.bundle/StatusView.nib</key>
 		<data>
-		L2LSXI9h2iBONCws1XhZrxf/gac=
+		y2/kTrcSi/XiEJJPy2ZT90Ifa50=
 		</data>
 		<key>HVNFCResources.bundle/chip_id_data.json</key>
 		<data>
@@ -62,7 +50,7 @@
 		</data>
 		<key>Headers/HVNFCReaderSDK-Swift.h</key>
 		<data>
-		1aAhFVhEeCEjaiNCo+vf0LHzPd4=
+		a7rx27Dimy7PyKawG5hGJwxl81g=
 		</data>
 		<key>Headers/HVNFCReaderSDK.h</key>
 		<data>
@@ -70,7 +58,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YpeyCK3ycTVldqnAnvNVY84mB8w=
+		GSYsT0lp+aNeoNS8BFo7kvveyPM=
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -78,11 +66,11 @@
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		s1WcGKKljQJClVPBPZp1Ja9ywNY=
+		8JogccUYUQjWLG9uFO6A7EXHOao=
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		kRSrUBok4CexNpE5htj1IRy4b4A=
+		cOZ8iC7gGiIyzAwoy5lwrCv4Meo=
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -90,11 +78,11 @@
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		s1WcGKKljQJClVPBPZp1Ja9ywNY=
+		8JogccUYUQjWLG9uFO6A7EXHOao=
 		</data>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		kRSrUBok4CexNpE5htj1IRy4b4A=
+		cOZ8iC7gGiIyzAwoy5lwrCv4Meo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,36 +91,23 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mKN/ChDYwMo0U6hVcKv++JCTE8LqSN+d0fiyb66wnAU=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oaN+ip1H1F0FdWiISdL1Rzri3DADRp0LFbpO+FDTgnk=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SE1Htk2zm3bSMt05S8q3Dam8CMqhQfAIz+kI7zuo0Ac=
-			</data>
-		</dict>
 		<key>HVNFCResources.bundle/Assets.car</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			T9UBBMkkSK9Ag2Jcj0jxpUN/BYY=
+			</data>
 			<key>hash2</key>
 			<data>
-			cYuUVp9yqZEZVme/mcySrwJ85Fqk4f9rRHfNuLs8fvc=
+			D6qY582O8KL7hU0jAu9VjwLvmapvQzBrhZcUDaB722g=
 			</data>
 		</dict>
 		<key>HVNFCResources.bundle/HVNFCPreview.storyboardc/HVNFCViewController.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			i3z90Ok8RIiWVmNgaypmIs2j3aQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			tMLf2FxbKPRNb/3qDcmdhoQKbrJ/npSwZAdY9qN2bn0=
@@ -140,6 +115,10 @@
 		</dict>
 		<key>HVNFCResources.bundle/HVNFCPreview.storyboardc/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			w6EKx8SPZZCXH9X8iua1go+Z1aE=
+			</data>
 			<key>hash2</key>
 			<data>
 			6KJfRD+B+DrflXD2IXYO3Xt7kFGNXYvSVUeq+bJNXQg=
@@ -147,13 +126,21 @@
 		</dict>
 		<key>HVNFCResources.bundle/HVNFCPreview.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4+HcV7G6cGgYnIM2MPZt9EG2YqY=
+			</data>
 			<key>hash2</key>
 			<data>
-			B+zw3hmnsFlhRGvQybTw3Hl/gkQc5HKZxb8tSeGK5rM=
+			y+4qS5MkJIPaBt/4SM1RZeHlkKoYf35Z95ItdfDLDNM=
 			</data>
 		</dict>
 		<key>HVNFCResources.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VJ7RBb9U1HaitSt2htXJeV5V0ak=
+			</data>
 			<key>hash2</key>
 			<data>
 			cCXUxSBjKL92jnezynS0nhO314YRiZgABs2ygCqwiwo=
@@ -161,6 +148,10 @@
 		</dict>
 		<key>HVNFCResources.bundle/Mulish-Bold.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			CBcJ1T7yOFI8JX0lRFce+lUoFVI=
+			</data>
 			<key>hash2</key>
 			<data>
 			AY/rORieq4oOz81cDkB6VJMvXJrpNNSyjWmgV/wxzsg=
@@ -168,6 +159,10 @@
 		</dict>
 		<key>HVNFCResources.bundle/Mulish-Regular.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iaQfUmRnLS0cEXaNilMlre7gz6M=
+			</data>
 			<key>hash2</key>
 			<data>
 			7lR+bxrdV/UPQltYBLXQrvL7paTpHZcvkwvh/COmPP4=
@@ -175,6 +170,10 @@
 		</dict>
 		<key>HVNFCResources.bundle/Mulish-SemiBold.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8PtQ4hWs9SsdkHDbERtNR3ujegU=
+			</data>
 			<key>hash2</key>
 			<data>
 			IYivB/e8XVwNScpCIqbYbjB7TPqnpP4ROd1I3UJUnhA=
@@ -182,13 +181,21 @@
 		</dict>
 		<key>HVNFCResources.bundle/StatusView.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			y2/kTrcSi/XiEJJPy2ZT90Ifa50=
+			</data>
 			<key>hash2</key>
 			<data>
-			EOTs0/I2EvHfJVUmYeX2JDjQm7II0n3dvyGumEyM7QM=
+			bOpQWZfOlETfsjIhXBpm7KnryCmvJuGQPEhv/6voqNw=
 			</data>
 		</dict>
 		<key>HVNFCResources.bundle/chip_id_data.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TjnLN8lwxh7MZNxY0eqkRzwZk4Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			so6pZvtfAObwbvYVU+AT7tW7PR0nchm/yuWdrSOmcho=
@@ -196,6 +203,10 @@
 		</dict>
 		<key>HVNFCResources.bundle/masterList.pem</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5cBvWkViftgNLB5rNuBeffwEGSU=
+			</data>
 			<key>hash2</key>
 			<data>
 			YqreDTLezJuUXbtzN8aNNSL6iqay7xi6PoTp/vq4fws=
@@ -203,13 +214,21 @@
 		</dict>
 		<key>Headers/HVNFCReaderSDK-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			a7rx27Dimy7PyKawG5hGJwxl81g=
+			</data>
 			<key>hash2</key>
 			<data>
-			liQTf7VYuK2GVGOzrSrA9Ea4Q4gjzv3fEWS7avtLBNw=
+			mgDgZZAr3JW4UEMSs3edjIoHqL5r59tN2xppAHEYwFs=
 			</data>
 		</dict>
 		<key>Headers/HVNFCReaderSDK.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0zZJ+HIsYlANUTTU/9kUkRs7Jh8=
+			</data>
 			<key>hash2</key>
 			<data>
 			auh20jmDdqXNZUbvn8f0SGdfRP1GO49SzFcuiLPK1oM=
@@ -217,6 +236,10 @@
 		</dict>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			/Nr4lMF0siZvPLyGHdN4rTILbZg=
+			</data>
 			<key>hash2</key>
 			<data>
 			YoiDkt8O64SRW0a3EsmjOyNDu7IKERPldRQgbbG6vD8=
@@ -224,20 +247,32 @@
 		</dict>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8JogccUYUQjWLG9uFO6A7EXHOao=
+			</data>
 			<key>hash2</key>
 			<data>
-			MX4BtSsfoqxywSEL5Kakb2vQy5urAFTEW/QQfoRmxYU=
+			mAApzqfkD4tGe3TwUgdKzgvomow/OxmEH7WywBTJDFQ=
 			</data>
 		</dict>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			cOZ8iC7gGiIyzAwoy5lwrCv4Meo=
+			</data>
 			<key>hash2</key>
 			<data>
-			DiuYj4FjYR2ba7ad38BgINxHFEJVT3kjpkCXDQffVZk=
+			X7luUplK2cdHhojwj/p6QthQcxufhUim+UumqppEDlc=
 			</data>
 		</dict>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			/Nr4lMF0siZvPLyGHdN4rTILbZg=
+			</data>
 			<key>hash2</key>
 			<data>
 			YoiDkt8O64SRW0a3EsmjOyNDu7IKERPldRQgbbG6vD8=
@@ -245,20 +280,32 @@
 		</dict>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8JogccUYUQjWLG9uFO6A7EXHOao=
+			</data>
 			<key>hash2</key>
 			<data>
-			MX4BtSsfoqxywSEL5Kakb2vQy5urAFTEW/QQfoRmxYU=
+			mAApzqfkD4tGe3TwUgdKzgvomow/OxmEH7WywBTJDFQ=
 			</data>
 		</dict>
 		<key>Modules/HVNFCReaderSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			cOZ8iC7gGiIyzAwoy5lwrCv4Meo=
+			</data>
 			<key>hash2</key>
 			<data>
-			DiuYj4FjYR2ba7ad38BgINxHFEJVT3kjpkCXDQffVZk=
+			X7luUplK2cdHhojwj/p6QthQcxufhUim+UumqppEDlc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AN9nJAWy6AcqMy7uEFXjFcHJWbU=
+			</data>
 			<key>hash2</key>
 			<data>
 			DIXYLCcSuXnTfn8mvHD2ExPsqMJGe6OFlxhUOlWK4cY=

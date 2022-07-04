@@ -218,6 +218,30 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK13BundleLocator")
 @end
 
 
+@class NSCoder;
+@class NSNumber;
+
+SWIFT_CLASS("_TtC14HVNFCReaderSDK16HVBrandingLayout")
+@interface HVBrandingLayout : UIStackView
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
+- (void)showBrandingWithShow:(BOOL)show;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+@class UIFont;
+@class UIColor;
+
+SWIFT_CLASS("_TtC14HVNFCReaderSDK21HVNFCDescriptionLabel")
+@interface HVNFCDescriptionLabel : UILabel
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
++ (void)setFont:(UIFont * _Nonnull)font;
++ (void)setTextAlignment:(NSTextAlignment)alignment;
++ (void)setTextColor:(UIColor * _Nonnull)color;
++ (void)setShadowColor:(UIColor * _Nonnull)color;
++ (void)setShadowOffset:(CGSize)offset;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
 
 SWIFT_CLASS("_TtC14HVNFCReaderSDK10HVNFCError")
 @interface HVNFCError : NSObject
@@ -226,10 +250,33 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK10HVNFCError")
 @end
 
 
+SWIFT_CLASS("_TtC14HVNFCReaderSDK14HVNFCItemLabel")
+@interface HVNFCItemLabel : UILabel
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
++ (void)setFont:(UIFont * _Nonnull)font;
++ (void)setTextAlignment:(NSTextAlignment)alignment;
++ (void)setTextColor:(UIColor * _Nonnull)color;
++ (void)setShadowColor:(UIColor * _Nonnull)color;
++ (void)setShadowOffset:(CGSize)offset;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
 SWIFT_CLASS("_TtC14HVNFCReaderSDK11HVNFCResult")
 @interface HVNFCResult : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+SWIFT_CLASS("_TtC14HVNFCReaderSDK15HVNFCTitleLabel")
+@interface HVNFCTitleLabel : UILabel
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
++ (void)setFont:(UIFont * _Nonnull)font;
++ (void)setTextColor:(UIColor * _Nonnull)color;
++ (void)setShadowColor:(UIColor * _Nonnull)color;
++ (void)setShadowOffset:(CGSize)offset;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
 @class NSString;
@@ -258,9 +305,6 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK8HyperNFC")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UIColor;
-@class NSNumber;
-@class NSCoder;
 
 SWIFT_CLASS("_TtC14HVNFCReaderSDK10LoaderView")
 @interface LoaderView : UIView
@@ -302,6 +346,7 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK14PassportReader") SWIFT_AVAILABILITY(ios,intro
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
@@ -531,6 +576,30 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK13BundleLocator")
 @end
 
 
+@class NSCoder;
+@class NSNumber;
+
+SWIFT_CLASS("_TtC14HVNFCReaderSDK16HVBrandingLayout")
+@interface HVBrandingLayout : UIStackView
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
+- (void)showBrandingWithShow:(BOOL)show;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+@class UIFont;
+@class UIColor;
+
+SWIFT_CLASS("_TtC14HVNFCReaderSDK21HVNFCDescriptionLabel")
+@interface HVNFCDescriptionLabel : UILabel
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
++ (void)setFont:(UIFont * _Nonnull)font;
++ (void)setTextAlignment:(NSTextAlignment)alignment;
++ (void)setTextColor:(UIColor * _Nonnull)color;
++ (void)setShadowColor:(UIColor * _Nonnull)color;
++ (void)setShadowOffset:(CGSize)offset;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
 
 SWIFT_CLASS("_TtC14HVNFCReaderSDK10HVNFCError")
 @interface HVNFCError : NSObject
@@ -539,10 +608,33 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK10HVNFCError")
 @end
 
 
+SWIFT_CLASS("_TtC14HVNFCReaderSDK14HVNFCItemLabel")
+@interface HVNFCItemLabel : UILabel
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
++ (void)setFont:(UIFont * _Nonnull)font;
++ (void)setTextAlignment:(NSTextAlignment)alignment;
++ (void)setTextColor:(UIColor * _Nonnull)color;
++ (void)setShadowColor:(UIColor * _Nonnull)color;
++ (void)setShadowOffset:(CGSize)offset;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
 SWIFT_CLASS("_TtC14HVNFCReaderSDK11HVNFCResult")
 @interface HVNFCResult : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+SWIFT_CLASS("_TtC14HVNFCReaderSDK15HVNFCTitleLabel")
+@interface HVNFCTitleLabel : UILabel
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
++ (void)setFont:(UIFont * _Nonnull)font;
++ (void)setTextColor:(UIColor * _Nonnull)color;
++ (void)setShadowColor:(UIColor * _Nonnull)color;
++ (void)setShadowOffset:(CGSize)offset;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
 @class NSString;
@@ -571,9 +663,6 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK8HyperNFC")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UIColor;
-@class NSNumber;
-@class NSCoder;
 
 SWIFT_CLASS("_TtC14HVNFCReaderSDK10LoaderView")
 @interface LoaderView : UIView
@@ -615,6 +704,7 @@ SWIFT_CLASS("_TtC14HVNFCReaderSDK14PassportReader") SWIFT_AVAILABILITY(ios,intro
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
